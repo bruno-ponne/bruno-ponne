@@ -4,9 +4,9 @@
 
 - :chart_with_upwards_trend: Particularly interested in data analysis to promote evidence based policy making;
 
-- Programming in <img align="center" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png"/>;
+- Programming in <img align="center" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png"/>
 
-- Learning <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>;
+- Learning <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 
 - Fan of synthetic control and other causal inference methods;
 
