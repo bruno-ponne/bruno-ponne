@@ -1,4 +1,4 @@
-Hi there, I'm Bruno :wave:
+:octocat: Hi there, I'm Bruno
 
 - I work at the Brazilian Senate and hold a Master in Public Policy at the Hertie School in Berlin.
 
@@ -12,4 +12,3 @@ Hi there, I'm Bruno :wave:
 
 - Currently analysing data on education in one Brazilian state to provide policy insights based on data
 
-- <img align="center" alt="linkdin" width="30px" src="https://en.m.wikipedia.org/wiki/File:LinkedIn_logo_initials.png"/> https://www.linkedin.com/in/bruno-gasparotto-ponne-b6041810/
