@@ -1,14 +1,14 @@
-:octocat: Hi there, I'm Bruno,
+## About Me
 
-- I work at the Brazilian Senate and hold a Master in Public Policy at the Hertie School in Berlin;
+:octocat: Hello, I'm Bruno Ponne, a data scientist and political historian particularly interested in causal inference and evidence based decision-making. Creator of [Coding The Past](https://www.codingthepast.com/).
 
-- :chart_with_upwards_trend: Particularly interested in data analysis to promote evidence based policy making;
+## My Skill Set
 
-- Programming in <img align="center" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png"/>
+:gear: R, Python, Flask, SQL
 
-- Learning <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
+:computer: HTML, CSS, JavaScript, Markdown, Liquid
 
-- Fan of synthetic control and other causal inference methods;
+## Connect With Me
 
-- Currently analysing data on education in one Brazilian state to provide policy insights based on data.
-
+- [Linkedin](linkedin.com/in/bruno-gasparotto-ponne-b6041810)
+- [Portfolio](https://brunoponne.com/)
