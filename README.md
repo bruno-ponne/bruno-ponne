@@ -4,9 +4,9 @@
 
 ## My Skill Set
 
-:gear: R, Python, Flask, SQL
+:gear: R, Python, Flask, SQL, ALteryx
 
-:computer: HTML, CSS, JavaScript, Markdown, Liquid
+:computer: Tableau, Power BI, HTML, CSS, JavaScript, Markdown, Liquid
 
 ## Connect With Me
 
