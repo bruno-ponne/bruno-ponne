@@ -1,6 +1,6 @@
 ## About Me
 
-:octocat: Hello, I'm Bruno Ponne, a data analyst and political historian particularly interested in causal inference and evidence based decision-making. Creator of [Coding The Past](https://www.codingthepast.com/).
+:octocat: Hello, I'm Bruno Ponne, a data analyst and political scientist particularly interested in causal inference and evidence based decision-making. Creator of [Coding The Past](https://www.codingthepast.com/).
 
 ## My Skill Set
 
